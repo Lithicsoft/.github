@@ -26,5 +26,5 @@ Projects that we have maintained and developed over the years (it may be proprie
 + North UI
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lithicsoft-Inc)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lithicsoft-Inc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndermanPC)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EndermanPC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
