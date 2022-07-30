@@ -1,2 +1,2 @@
 # .github
-Description For GithuB
+Description For Github
