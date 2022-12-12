@@ -19,7 +19,7 @@ At Lithicsoft, we’re a global community of
 
 We are a small community that allows people to have free software, our ultimate goal is to make it free, simple, easy to use, and virus-free, and create a lot of software is similar to existing ones, helping users to have a more holistic view of the technology.
 
-Projects that we have maintained and developed over the years (it may be proprietary but always free)
+Projects that we have maintained and developed over the years (it may be close source but always free)
 
 + Unet Operating system
 + Los (Lithicsoft Office Software)
