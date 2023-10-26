@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 Lithicsoft Inc is an organization that is trying its best to create software with Free-Safe-Lite criteria and has many outstanding projects such as: UnetOSX, Los, LithicAI Education Model.
-Founded in 2018 by Anthony Erosion with the first project EnderOS, then UnetOSX, since then, Lithicsoft has always launched many new projects and still maintains the Free-Safe-Lite criterion.
+Founded in 2018 by Anthony Erosion with the first project EnderOS, then Unet, since then, Lithicsoft has always launched many new projects and still maintains the Free-Safe-Lite criterion.
