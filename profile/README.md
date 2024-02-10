@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/YZK3IbF.png" alt="Lithicsoft Organization." style="width: 100%; min-width: 400px; display: block; margin: auto;">
+<img src="https://i.imgur.com/SFIAa55.png" alt="Lithicsoft Organization." style="width: 100%; min-width: 400px; display: block; margin: auto;">
 
 ## Hi there 👋
 
