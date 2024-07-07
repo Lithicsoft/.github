@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/SFIAa55.png" alt="Lithicsoft Organization." style="width: 100%; min-width: 400px; display: block; margin: auto;">
-
 ## Hi there 👋
 
 Lithicsoft is a non-profit organization dedicated to developing innovative software solutions. Since its founding in 2018 with the EnderOS project, a precursor to the now-discontinued UnetOSX, Lithicsoft has been committed to creating accessible and user-friendly technology.
